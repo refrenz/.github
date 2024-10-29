@@ -13,3 +13,10 @@ Welcome to **Refrenz** – a comprehensive SaaS platform for creating, managing,
 - **Analytics and Feedback**: Gain insights into user interactions and gather feedback directly through the platform.
 - **SEO Optimization**: Enhance discoverability with SEO-friendly options, including custom URLs.
 - **Integrations**: Connect with essential tools like Slack, GitHub, and Jira to sync content and updates effortlessly.
+
+## Contact Us
+
+For questions, issues, or to request a demo, please reach out to our support team:
+
+- **Email**: contact@refrenz.com
+- **Website**: [Refrenz.com](https://refrenz.com)
